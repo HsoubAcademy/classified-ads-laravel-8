@@ -35,10 +35,10 @@
 
 <li> انتقل إلى https://mailtrap.io/inboxes/ ثم Demo inbox</li>
 
-<li> انسخ اسم المستخدم و الباسوورد إلى ملف env ، لتصبح الإعدادات كالتالي:</li>
+<li> انسخ اسم المستخدم وكلمة المرور إلى ملف .env ، لتصبح الإعدادات كالتالي:</li>
 
 MAIL_USERNAME=اسم المستخدم
 
-MAIL_PASSWORD= الباسوورد
+MAIL_PASSWORD=كلمة المرور
 
 </ul>
